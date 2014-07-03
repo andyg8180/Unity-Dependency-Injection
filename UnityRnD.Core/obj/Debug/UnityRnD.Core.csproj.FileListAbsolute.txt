@@ -1,0 +1,5 @@
+D:\RulesEngineTest\UnityRnD\UnityRnD.Core\bin\Debug\UnityRnD.Core.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Core\bin\Debug\UnityRnD.Core.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Core\obj\Debug\UnityRnD.Core.csprojResolveAssemblyReference.cache
+D:\RulesEngineTest\UnityRnD\UnityRnD.Core\obj\Debug\UnityRnD.Core.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Core\obj\Debug\UnityRnD.Core.pdb

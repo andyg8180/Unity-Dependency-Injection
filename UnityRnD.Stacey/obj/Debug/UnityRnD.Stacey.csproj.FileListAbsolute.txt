@@ -1,0 +1,7 @@
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\bin\Debug\UnityRnD.Stacey.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\bin\Debug\UnityRnD.Stacey.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\bin\Debug\UnityRnD.Core.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\bin\Debug\UnityRnD.Core.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\obj\Debug\UnityRnD.Stacey.csprojResolveAssemblyReference.cache
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\obj\Debug\UnityRnD.Stacey.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Stacey\obj\Debug\UnityRnD.Stacey.pdb

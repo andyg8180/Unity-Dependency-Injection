@@ -1,0 +1,7 @@
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\bin\Debug\UnityRnD.Michael.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\bin\Debug\UnityRnD.Michael.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\bin\Debug\UnityRnD.Core.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\bin\Debug\UnityRnD.Core.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\obj\Debug\UnityRnD.Michael.csprojResolveAssemblyReference.cache
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\obj\Debug\UnityRnD.Michael.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Michael\obj\Debug\UnityRnD.Michael.pdb

@@ -1,0 +1,14 @@
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\UnityRnD.Application.exe.config
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\UnityRnD.Application.exe
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\UnityRnD.Application.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\obj\Debug\UnityRnD.Application.csprojResolveAssemblyReference.cache
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\obj\Debug\UnityRnD.Application.exe
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\obj\Debug\UnityRnD.Application.pdb
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.xml
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\UnityRnD.Core.dll
+D:\RulesEngineTest\UnityRnD\UnityRnD.Application\bin\Debug\UnityRnD.Core.pdb
